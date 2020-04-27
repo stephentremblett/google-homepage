@@ -3,3 +3,4 @@
 
 ### Primary learning
 * Using Git through CLI
+* Using flexbox/grid to re-create Google.com
